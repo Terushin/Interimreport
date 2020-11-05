@@ -1,0 +1,141 @@
+body {
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+}
+
+.Mainwrapper {
+    background-image: url(./TaipeiDusk.jpg);
+    background-size: 205%;
+}
+
+.container {
+    width: 80%;
+    margin: 100px;
+}
+
+.header {
+    background-color: #666699;
+    height: 70px;
+    width:100%;
+    position: fixed;
+    top: 0;
+    color: white;
+}
+
+.header-list li {
+float:left;
+padding-right: 250px;
+padding-bottom: 40px;
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: larger;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    width: 60%;
+}
+
+.ServicePage {
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+    
+}
+
+.ServicePage li {
+    color: white;
+    font-size: 30px;
+    margin: 5px;
+}
+
+.ProfilePage {
+    width: 100%;
+    height: 400px;
+}
+
+.ContactPage {
+    width: 100%;
+    height: 400px;
+    
+}
+
+input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+  }
+  
+
+.Page-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+
+
+.OgimiDusk {
+    width: 400px;
+    height:380px;
+    margin-left: 100px;
+}
+
+
+.Contents-text h2 {
+    font-weight: bold;
+}
+
+
+
+.Page-contents {
+    display: flex;
+}
+
+.TopPage h1 {
+    font-size: 100px;
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 250px;
+}
+
+a {
+color: white;
+text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: black;
+    height: 120px;
+    padding: 40px
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+}
+
+a.anchor{
+    display: block;
+    padding-top: 70px;
+    margin-top: -70px;
+}
+
+
+
